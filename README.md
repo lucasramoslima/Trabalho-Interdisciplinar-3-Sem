@@ -3,7 +3,7 @@
 # 14/03/2017
 
 Este trabalho tem como finalidade colocar em prática os conhecimentos adquiridos em
-Banco de Dados II, Linguagem de Programação 2, Análise Orientada a Objetos e Interação
+Banco de Dados II, Linguagem de Programação II, Análise Orientada a Objetos e Interação
 Humano Computador.
 O trabalho terá como base um hotel fazendo onde será criado toda a automatização do 
 processo de cadastro de clientes, funcionários, serviços, quartos e estoque.
